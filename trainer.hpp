@@ -1,5 +1,5 @@
-#ifndef TRAINER_H
-#define TRAINER_H
+#ifndef TRAINER_HPP
+#define TRAINER_HPP
 
 #include <string>
 #include <vector>
@@ -20,4 +20,4 @@ protected:
 	Party* team;
 };
 
-#endif TRAINER_H
+#endif

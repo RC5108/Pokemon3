@@ -1,5 +1,5 @@
-#ifndef PIKACHU_H
-#define PIKACHU_H
+#ifndef PIKACHU_HPP
+#define PIKACHU_HPP
 #include "pokemon.hpp"
 #include "raichu.hpp"
 
@@ -27,4 +27,4 @@ protected:
 	int levelUpXp = 100;
 };
 
-#endif // PIKACHU_H
+#endif

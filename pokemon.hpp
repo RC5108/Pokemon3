@@ -1,5 +1,5 @@
-#ifndef POKEMON_H
-#define POKEMON_H
+#ifndef POKEMON_HPP
+#define POKEMON_HPP
 #include <iostream>
 #include <string>
 #include <vector>
@@ -59,4 +59,4 @@ private:
 };
 
 
-#endif // POKEMON_H
+#endif

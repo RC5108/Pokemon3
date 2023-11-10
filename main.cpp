@@ -15,7 +15,7 @@ using namespace std;
 
 int main() {
 	
-	srand(static_cast<unsigned int>(time(NULL)));
+	srand((time(NULL)));
 
     Party userParty({
         Pokemon("Bulbasaur", "Grass", 100, 20, 20),

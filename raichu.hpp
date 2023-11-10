@@ -1,5 +1,5 @@
-#ifndef RAICHU_H
-#define RAICHU_H
+#ifndef RAICHU_HPP
+#define RAICHU_HPP
 
 #include "pokemon.hpp"
 
@@ -10,5 +10,4 @@ public:
     void thunderShock(Pokemon& target);
 };
 
-#endif // RAICHU_H
-
+#endif

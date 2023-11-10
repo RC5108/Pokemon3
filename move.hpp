@@ -1,5 +1,5 @@
-#ifndef MOVE_H
-#define MOVE_H
+#ifndef MOVE_HPP
+#define MOVE_HPP
 #include <iostream>
 #include <string>
 #include <ctime>
@@ -35,4 +35,4 @@ private:
 
 
 
-#endif // MOVE_H
+#endif

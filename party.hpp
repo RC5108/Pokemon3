@@ -1,5 +1,5 @@
-#ifndef PARTY_H
-#define PARTY_H
+#ifndef PARTY_HPP
+#define PARTY_HPP
 #include <iostream>
 #include <vector>
 #include "pikachu.hpp"
@@ -34,4 +34,4 @@ protected:
 };
 
 
-#endif // PARTY_H
+#endif
