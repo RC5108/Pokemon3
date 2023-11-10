@@ -1,0 +1,647 @@
+Gary challenges Ash to a battle!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Crush
+Enter the number of your choice: 1
+Pidgey has received 18 damage
+Pidgey is currently at 82 health points!
+Bulbasaur used Tackle!
+Bulbasaur dealt 18 damage to Pidgey!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Bulbasaur has received 28 damage
+Bulbasaur is currently at 72 health points!
+Pidgey used Grab!
+Pidgey dealt 28 damage to Bulbasaur!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Crush
+Enter the number of your choice: 1
+Pidgey has received 18 damage
+Pidgey is currently at 64 health points!
+Bulbasaur used Tackle!
+Bulbasaur dealt 18 damage to Pidgey!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Bulbasaur has received 28 damage
+Bulbasaur is currently at 44 health points!
+Pidgey used Grab!
+Pidgey dealt 28 damage to Bulbasaur!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Crush
+Enter the number of your choice: 1
+Pidgey has received 18 damage
+Pidgey is currently at 46 health points!
+Bulbasaur used Tackle!
+Bulbasaur dealt 18 damage to Pidgey!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Bulbasaur has received 28 damage
+Bulbasaur is currently at 16 health points!
+Pidgey used Grab!
+Pidgey dealt 28 damage to Bulbasaur!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Crush
+Enter the number of your choice: 2
+Pidgey has received 24 damage
+Pidgey is currently at 22 health points!
+Bulbasaur used Crush!
+Bulbasaur dealt 24 damage to Pidgey!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Bulbasaur has received 28 damage
+Bulbasaur is currently at 0 health points!
+Pidgey used Grab!
+Pidgey dealt 28 damage to Bulbasaur!
+Bulbasaur has fainted!
+Select a Pokemon to swap to: 
+2. Charmander HP: 100
+3. Squirtle HP: 100
+4. Pikachu HP: 100
+5. Jigglypuff HP: 100
+6. Meowth HP: 100
+2
+Go Charmander!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+2. Grab
+3. Sweep
+Enter the number of your choice: 1
+Pidgey has received 30 damage
+Pidgey is currently at 0 health points!
+Charmander used Sweep!
+Charmander dealt 30 damage to Pidgey!
+Pidgey has fainted!
+Select a Pokemon to swap to: 
+2. Rattata HP: 100
+3. Spearow HP: 100
+4. Pikachu HP: 100
+5. Zubat HP: 100
+6. Caterpie HP: 100
+2
+Go Rattata!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Charmander has received 26 damage
+Charmander is currently at 74 health points!
+Rattata used Obliterate!
+Rattata dealt 26 damage to Charmander!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+2. Grab
+3. Sweep
+Enter the number of your choice: 1
+Rattata has received 30 damage
+Rattata is currently at 70 health points!
+Charmander used Sweep!
+Charmander dealt 30 damage to Rattata!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Charmander has received 26 damage
+Charmander is currently at 48 health points!
+Rattata used Obliterate!
+Rattata dealt 26 damage to Charmander!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+2. Grab
+3. Sweep
+Enter the number of your choice: 1
+Rattata has received 30 damage
+Rattata is currently at 40 health points!
+Charmander used Sweep!
+Charmander dealt 30 damage to Rattata!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Charmander has received 26 damage
+Charmander is currently at 22 health points!
+Rattata used Obliterate!
+Rattata dealt 26 damage to Charmander!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+2. Grab
+3. Sweep
+Enter the number of your choice: 1
+Rattata has received 30 damage
+Rattata is currently at 10 health points!
+Charmander used Sweep!
+Charmander dealt 30 damage to Rattata!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Charmander has received 26 damage
+Charmander is currently at 0 health points!
+Rattata used Obliterate!
+Rattata dealt 26 damage to Charmander!
+Charmander has fainted!
+Select a Pokemon to swap to: 
+1. Bulbasaur HP: 0
+3. Squirtle HP: 100
+4. Pikachu HP: 100
+5. Jigglypuff HP: 100
+6. Meowth HP: 100
+3
+Go Squirtle!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Rattata has received 27 damage
+Rattata is currently at 0 health points!
+Squirtle used Obliterate!
+Squirtle dealt 27 damage to Rattata!
+Rattata has fainted!
+Select a Pokemon to swap to: 
+1. Pidgey HP: 0
+3. Spearow HP: 100
+4. Pikachu HP: 100
+5. Zubat HP: 100
+6. Caterpie HP: 100
+1
+Invalid choice.
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Squirtle has received 26 damage
+Squirtle is currently at 74 health points!
+Rattata used Obliterate!
+Rattata dealt 26 damage to Squirtle!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Rattata has received 27 damage
+Rattata is currently at 0 health points!
+Squirtle used Obliterate!
+Squirtle dealt 27 damage to Rattata!
+Rattata has fainted!
+Select a Pokemon to swap to: 
+1. Pidgey HP: 0
+3. Spearow HP: 100
+4. Pikachu HP: 100
+5. Zubat HP: 100
+6. Caterpie HP: 100
+3
+Go Spearow!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Flop
+Enter the number of your choice: 1
+Squirtle has received 25 damage
+Squirtle is currently at 49 health points!
+Spearow used Tackle!
+Spearow dealt 25 damage to Squirtle!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Spearow has received 27 damage
+Spearow is currently at 73 health points!
+Squirtle used Obliterate!
+Squirtle dealt 27 damage to Spearow!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Flop
+Enter the number of your choice: 1
+Squirtle has received 25 damage
+Squirtle is currently at 24 health points!
+Spearow used Tackle!
+Spearow dealt 25 damage to Squirtle!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Spearow has received 27 damage
+Spearow is currently at 46 health points!
+Squirtle used Obliterate!
+Squirtle dealt 27 damage to Spearow!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Flop
+Enter the number of your choice: 1
+Squirtle has received 25 damage
+Squirtle is currently at 0 health points!
+Spearow used Tackle!
+Spearow dealt 25 damage to Squirtle!
+Squirtle has fainted!
+Select a Pokemon to swap to: 
+1. Bulbasaur HP: 0
+2. Charmander HP: 0
+4. Pikachu HP: 100
+5. Jigglypuff HP: 100
+6. Meowth HP: 100
+4
+Go Pikachu!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Crush
+2. Takedown
+Enter the number of your choice: 1
+Spearow has received 21 damage
+Spearow is currently at 25 health points!
+Pikachu used Crush!
+Pikachu dealt 21 damage to Spearow!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Flop
+Enter the number of your choice: 1
+Pikachu has received 25 damage
+Pikachu is currently at 75 health points!
+Spearow used Tackle!
+Spearow dealt 25 damage to Pikachu!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Crush
+2. Takedown
+Enter the number of your choice: 1
+Spearow has received 21 damage
+Spearow is currently at 4 health points!
+Pikachu used Crush!
+Pikachu dealt 21 damage to Spearow!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Tackle
+2. Flop
+Enter the number of your choice: 1
+Pikachu has received 25 damage
+Pikachu is currently at 50 health points!
+Spearow used Tackle!
+Spearow dealt 25 damage to Pikachu!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Crush
+2. Takedown
+Enter the number of your choice: 1
+Spearow has received 21 damage
+Spearow is currently at 0 health points!
+Pikachu used Crush!
+Pikachu dealt 21 damage to Spearow!
+Spearow has fainted!
+Select a Pokemon to swap to: 
+1. Pidgey HP: 0
+2. Rattata HP: 0
+4. Pikachu HP: 100
+5. Zubat HP: 100
+6. Caterpie HP: 100
+4
+Go Pikachu!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Pikachu has received 23 damage
+Pikachu is currently at 27 health points!
+Pikachu used Obliterate!
+Pikachu dealt 23 damage to Pikachu!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Crush
+2. Takedown
+Enter the number of your choice: 1
+Pikachu has received 21 damage
+Pikachu is currently at 79 health points!
+Pikachu used Crush!
+Pikachu dealt 21 damage to Pikachu!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Pikachu has received 23 damage
+Pikachu is currently at 4 health points!
+Pikachu used Obliterate!
+Pikachu dealt 23 damage to Pikachu!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Crush
+2. Takedown
+Enter the number of your choice: 1
+Pikachu has received 21 damage
+Pikachu is currently at 58 health points!
+Pikachu used Crush!
+Pikachu dealt 21 damage to Pikachu!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Pikachu has received 23 damage
+Pikachu is currently at 0 health points!
+Pikachu used Obliterate!
+Pikachu dealt 23 damage to Pikachu!
+Pikachu has fainted!
+Select a Pokemon to swap to: 
+1. Bulbasaur HP: 0
+2. Charmander HP: 0
+3. Squirtle HP: 0
+5. Jigglypuff HP: 100
+6. Meowth HP: 100
+5
+Go Jigglypuff!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Pikachu has received 24 damage
+Pikachu is currently at 34 health points!
+Jigglypuff used Sweep!
+Jigglypuff dealt 24 damage to Pikachu!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Jigglypuff has received 23 damage
+Jigglypuff is currently at 77 health points!
+Pikachu used Obliterate!
+Pikachu dealt 23 damage to Jigglypuff!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Pikachu has received 24 damage
+Pikachu is currently at 10 health points!
+Jigglypuff used Sweep!
+Jigglypuff dealt 24 damage to Pikachu!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Obliterate
+Enter the number of your choice: 1
+Jigglypuff has received 23 damage
+Jigglypuff is currently at 54 health points!
+Pikachu used Obliterate!
+Pikachu dealt 23 damage to Jigglypuff!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Pikachu has received 24 damage
+Pikachu is currently at 0 health points!
+Jigglypuff used Sweep!
+Jigglypuff dealt 24 damage to Pikachu!
+Pikachu has fainted!
+Select a Pokemon to swap to: 
+1. Pidgey HP: 0
+2. Rattata HP: 0
+3. Spearow HP: 0
+5. Zubat HP: 100
+6. Caterpie HP: 100
+5
+Go Zubat!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Jigglypuff has received 22 damage
+Jigglypuff is currently at 32 health points!
+Zubat used Sweep!
+Zubat dealt 22 damage to Jigglypuff!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Zubat has received 24 damage
+Zubat is currently at 76 health points!
+Jigglypuff used Sweep!
+Jigglypuff dealt 24 damage to Zubat!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Jigglypuff has received 22 damage
+Jigglypuff is currently at 10 health points!
+Zubat used Sweep!
+Zubat dealt 22 damage to Jigglypuff!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Zubat has received 24 damage
+Zubat is currently at 52 health points!
+Jigglypuff used Sweep!
+Jigglypuff dealt 24 damage to Zubat!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Jigglypuff has received 22 damage
+Jigglypuff is currently at 0 health points!
+Zubat used Sweep!
+Zubat dealt 22 damage to Jigglypuff!
+Jigglypuff has fainted!
+Select a Pokemon to swap to: 
+1. Bulbasaur HP: 0
+2. Charmander HP: 0
+3. Squirtle HP: 0
+4. Pikachu HP: 0
+6. Meowth HP: 100
+6
+Go Meowth!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Zubat has received 25 damage
+Zubat is currently at 27 health points!
+Meowth used Grab!
+Meowth dealt 25 damage to Zubat!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Meowth has received 22 damage
+Meowth is currently at 78 health points!
+Zubat used Sweep!
+Zubat dealt 22 damage to Meowth!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Zubat has received 25 damage
+Zubat is currently at 2 health points!
+Meowth used Grab!
+Meowth dealt 25 damage to Zubat!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Sweep
+Enter the number of your choice: 1
+Meowth has received 22 damage
+Meowth is currently at 56 health points!
+Zubat used Sweep!
+Zubat dealt 22 damage to Meowth!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Zubat has received 25 damage
+Zubat is currently at 0 health points!
+Meowth used Grab!
+Meowth dealt 25 damage to Zubat!
+Zubat has fainted!
+Select a Pokemon to swap to: 
+1. Pidgey HP: 0
+2. Rattata HP: 0
+3. Spearow HP: 0
+4. Pikachu HP: 0
+6. Caterpie HP: 100
+6
+Go Caterpie!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Takedown
+2. Crush
+Enter the number of your choice: 1
+Meowth has received 28 damage
+Meowth is currently at 28 health points!
+Caterpie used Takedown!
+Caterpie dealt 28 damage to Meowth!
+Ash's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Grab
+Enter the number of your choice: 1
+Caterpie has received 25 damage
+Caterpie is currently at 75 health points!
+Meowth used Grab!
+Meowth dealt 25 damage to Caterpie!
+Gary's turn. Choose an action:
+1. Attack
+2. Swap Pokemon
+Choose a move:
+1. Takedown
+2. Crush
+Enter the number of your choice: 1
+Meowth has received 28 damage
+Meowth is currently at 0 health points!
+Caterpie used Takedown!
+Caterpie dealt 28 damage to Meowth!
+Meowth has fainted!
+Gary wins the battle!
+
