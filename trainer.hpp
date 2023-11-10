@@ -7,9 +7,7 @@
 
 class Trainer {
 public:
-	~Trainer() {
-		delete team;
-	}
+	~Trainer() {}
 	Trainer(string n, Party* t) : name(n), team(t) {}
 	string getName() const { return name; }
 	Party* getTeam() const { return team; }
